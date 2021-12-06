@@ -5,7 +5,7 @@
   "default": "index.js",
   "scripts": {
     "server": "node backend/server.js",
-    "start": "concurrently --kill-others \"npm run dev\" \"npm run server\"",
+    "start": "node backend/server.js",
     "dev": "parcel watch frontend/index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
