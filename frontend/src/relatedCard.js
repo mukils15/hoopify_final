@@ -101,7 +101,7 @@ const RelatedCard = (props) => {
                     </br>
                     <div className = "test">
                             <a href={props.artist['art_link']} target="_blank">
-                                <img src="https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-icon-marilyn-scott-0.png" alt="Logo" width="70" height="70" />
+                                <img src="https://www.magneticmag.com/.image/t_share/MTY1MTczMzk2MzUzNTkwNTg0/spotify_icon_cmyk_green.png" alt="Logo" width="70" height="70" />
                             </a>
                     </div>
                 </div>    
